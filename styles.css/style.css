@@ -77,5 +77,269 @@ header {
 
 /* >>>>>>>>>Main Section Start>>>>> */
 
+main {
+      margin-top: 50px;
+      margin-left: 300px;
+      margin-right: 300px;
+
+}
+
+.main-section {
+      border-radius: 16px;
+      background: rgba(13, 19, 33, 0.02);
+}
+
+.web-title {
+      text-align: center;
+      margin-top: 30px;
+      margin-left: 300px;
+      margin-right: 300px;
+}
+
+.web-title h1 {
+      font-size: 32px;
+      font-weight: 800;
+}
+
+.web-title p {
+      color: rgb(13, 19, 33);
+      font-size: 16px;
+}
+
+.learn-btn {
+
+      padding: 10px 30px;
+      width: 140px;
+      height: 38px;
+      margin-top: 30px;
+
+}
+
+.learn-btn a {
+      text-decoration: none;
+      size: 20px;
+      color: black;
+}
+
+.web-card {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+}
+
+.card-1 {
+      margin-left: 250px;
+      margin-right: 300px;
+}
+
+.card-1 h2 {
+      font-size: 24px;
+      font-weight: 700;
+      margin: 30px 0;
+      color: rgba(13, 19, 33, 0.7);
+
+}
+
+.card-1 p {
+      color: rgb(13, 19, 33);
+      font-size: 16px;
+}
+
+.layer-img-1 {
+      margin-right: 240px;
+}
+
+.web-card-2 {
+      display: flex;
+      margin-top: 50px;
+}
+
+.layer-img-2 {
+      margin-left: 250px;
+}
+
+
+/* inspiration section >>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+.inspiration-section {
+      margin-top: 50px;
+      text-align: center;
+      margin-left: 250px;
+      margin-right: 250px;
+      margin-bottom: 60px;
+
+}
+
+/* inspiration section end >>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>*/
+
+
+
+/* My Current Target Section */
+
+.card-view {
+      display: flex;
+      justify-content: space-between;
+}
+
+.target-section {
+      text-align: center;
+      margin-top: 50px;
+      margin-left: 300px;
+      margin-right: 300px;
+      margin-bottom: 40px;
+
+}
+
+.cl-1 {
+      justify-content: flex-start;
+      align-items: flex-start;
+      padding: 40px;
+      width: 300px;
+      height: 200px;
+      border-radius: 16px;
+      background: rgba(255, 76, 30, 0.05);
+}
+
+.cl-1 h2 {
+      margin: 20px 0;
+      ;
+}
+
+
+.cl-2 {
+      border-radius: 16px;
+      background: rgba(0, 76, 232, 0.05);
+      padding: 40px;
+      width: 300px;
+      height: 200px;
+      justify-content: flex-start;
+      align-items: flex-start;
+}
+
+.cl-2 h2 {
+      margin: 20px 0;
+      ;
+}
+
+.cl-3 {
+      border-radius: 16px;
+      background: rgba(255, 223, 0, 0.05);
+      padding: 40px;
+      height: 200px;
+      width: 300px;
+      justify-content: flex-start;
+      align-items: flex-start;
+}
+
+.cl-3 h2 {
+      margin: 20px 0;
+      ;
+}
+
+
+/* My Current Target end */
+
+/* Support Section>>>>>>>>>>> */
+
+
+.sec5 {
+
+      background-image: linear-gradient(0deg,
+                  rgb(16, 16, 16) 40%,
+                  rgba(16, 16, 16, 0) 100%), url(../images/handshake.jpg);
+
+
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      height: 314px;
+      width: 1140px;
+      margin: 0 auto;
+      ;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      margin-top: 41px;
+      border-radius: 16px;
+      align-items: center;
+
+
+
+
+}
+
+.last {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+
+.support {
+      color: rgb(255, 255, 255);
+      font-family: Azeret Mono;
+      font-size: 32px;
+      font-weight: 800;
+      line-height: 36px;
+
+}
+
+.des7 {
+      color: rgb(255, 255, 255);
+      font-family: Azeret Mono;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 26px;
+      opacity: 0.7;
+
+
+}
+
+.text2 {
+      width: 120px;
+      height: 58px;
+      border-radius: 8px;
+      font-size: 20px;
+      font-weight: 600;
+
+      background: rgb(255, 255, 255);
+      padding: 17px 20px 17px 20px;
+
+}
+
+.input {
+      text-align: center;
+}
+
+.text {
+
+      width: 548px;
+      height: 57px;
+      box-sizing: border-box;
+      border: 1px solid rgba(13, 19, 33, 0.15);
+      border-radius: 8px;
+      padding: 19px 20px 19px 20px;
+
+      background: rgb(255, 255, 255);
+      margin: 0px 16px;
+
+}
+
+
+/* Support Section end>>>>>>>>>>> */
+
 
 /* >>>>>>>>>Main Section end>>>>> */
+
+
+
+.foot {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 111px;
+}
+
+a {
+      margin: 10px;
+}
